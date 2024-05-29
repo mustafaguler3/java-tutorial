@@ -14,6 +14,8 @@ public class main {
         float f = 4.27f;
         long l = 67;
 
+
+
         Integer con1 = Integer.valueOf(i);
         Double con2 = Double.valueOf(d);
 
@@ -36,6 +38,8 @@ public class main {
         int val2 = val1;
         // anf
         int val3 = list.get(0);
+
+
 
     }
 
